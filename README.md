@@ -34,26 +34,6 @@ A Python-based analytics project that simulates and analyzes a SaaS user convers
 
 ---
 
-## ⚙️ Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/saas-funnel-ab-analysis.git
-cd saas-funnel-ab-analysis
-
-# Install dependencies
-pip install pandas numpy matplotlib seaborn scipy
-```
-
----
-
-## ▶️ Usage
-
-```bash
-python funnel_ab_analysis.py
-```
-
----
 
 ## 📈 Analysis Breakdown
 
@@ -112,6 +92,3 @@ Result: Not Statistically Significant ❌
 
 ---
 
-## 📄 License
-
-MIT License
